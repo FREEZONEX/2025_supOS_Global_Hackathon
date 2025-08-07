@@ -24,7 +24,7 @@ Choose from 3 exciting tracks:
 ## 🧠 Resources
 
 - [Download supOS-CE](https://github.com/FREEZONEX/supOS-CE)
-- [supOS Documentation](https://supos.ai/docs)
+- [supOS Documentation](https://suposcommunity.vercel.app)
 - [Getting Started with supOS](https://supos.ai/trial)
 - [Discord Community](https://discord.gg/K92gcRWabU)
 
