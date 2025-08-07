@@ -1,21 +1,18 @@
 # 🏁 supOS Global Hackathon 2025: Next-Gen Factory Challenge  
 ![supOS Hackathon Banner](./20250807-170635.png)
 
-**August 1 – October 31, 2025**
 
-Build the future of smart factories with **supOS-CE**, the open-source industrial data platform.
+## 🎯 What’s this about?
 
----
+**supOS-CE** is an open-source industrial data platform designed to power the next generation of smart factories. 
 
-## 🎯 What is this?
+This **3-month** hackathon is your playground to:
 
-A 3-month global hackathon to reimagine industrial software. Choose your track:
+1. **supOS+** – Build new industrial apps on supOS  
+2. **supOS Pro** – Optimize, extend, or reimagine the platform
+3. **Real-World Deployment** – Apply supOS in real or simulated factory environments
 
-1. **supOS+** – Build new apps with supOS  
-2. **supOS Pro** – Improve or extend the platform  
-3. **Real-World Deployment** – Apply supOS in real or simulated factory environments  
-
-👉 [Full details here](https://supos.ai/hackathon)
+👉 [Learn More](https://supos.ai/hackathon)
 
 ---
 
@@ -46,7 +43,7 @@ Introduce yourself in `#team-up-hub` on [Discord](https://discord.gg/K92gcRWabU)
 
 ## 🏆 Prizes
 
-Over **$11,000 USD** in prizes for top projects — plus swag, community awards, and global recognition.
+Over **$11,000 USD** in prizes for top projects！
 
 ---
 
