@@ -14,15 +14,17 @@ This **3-month** hackathon is your playground to:
 
 👉 [Learn More](https://supos.ai/hackathon)
 
-
-
 ## 📅 Timeline
+
 | Phase | Date |
 |-------|------|
 | Starts | August 1, 2025 |
 | Ends | October 31, 2025 |
 
+## 👥 Team Up
 
+Looking for teammates?  
+Introduce yourself in `#team-up-hub` on [Discord](https://discord.gg/K92gcRWabU) and start building!
 
 ## 🧠 Resources
 
@@ -30,12 +32,6 @@ This **3-month** hackathon is your playground to:
 - [Documentation](https://suposcommunity.vercel.app)  
 - [Get Started](https://supos.ai/trial)  
 - [Join Discord](https://discord.gg/K92gcRWabU)
-
-
-## 👥 Team Up
-
-Looking for teammates?  
-Introduce yourself in `#team-up-hub` on [Discord](https://discord.gg/K92gcRWabU) and start building!
 
 
 ## 🏆 Prizes
