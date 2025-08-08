@@ -6,10 +6,9 @@
 
 ## 🎯 What’s this about?
 
-**supOS-CE** is an open-source industrial data platform designed to power the next generation of smart factories. 
+**supOS-CE** is an open-source industrial data platform designed to power real-time operations, seamless system integration, and AI-driven decision-making in smart factories.
 
-This **3-month** hackathon is your playground to:
-
+Whether you're a **🧑‍💻engineer**, **🧑‍🎨designer** — or just a **🤵curious builder👩🏻‍🔬** —there’s a track for you.
 1. **supOS+** – Build new industrial apps on supOS  
 2. **supOS Pro** – Optimize, extend, or reimagine the platform
 3. **Real-World Deployment** – Apply supOS in real or simulated factory environments
