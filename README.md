@@ -24,8 +24,6 @@ Join our [Discord](https://discord.gg/K92gcRWabU) to connect with organizers and
 - [supOS-CE on GitHub](https://github.com/FREEZONEX/supOS-CE)  
 - [Documentation](https://suposcommunity.vercel.app)  
 - [Get Started](https://supos.ai/trial)  
-- [Join Discord](https://discord.gg/K92gcRWabU)
-
 
 💰 Hack your way to $11,000 in prizes!
 
