@@ -1,6 +1,8 @@
 # 🏁 supOS Global Hackathon 2025: Next-Gen Factory Challenge  
-![supOS Hackathon Banner](./20250807-170635.png)
+[![supOS Hackathon Banner](./20250807-170635.png)](https://supos.ai/hackathon)
 
+📅*August 1 to October 31, 2025*  
+[**🔍 Know More**](https://supos.ai/hackathon)
 
 ## 🎯 What’s this about?
 
@@ -11,15 +13,6 @@ This **3-month** hackathon is your playground to:
 1. **supOS+** – Build new industrial apps on supOS  
 2. **supOS Pro** – Optimize, extend, or reimagine the platform
 3. **Real-World Deployment** – Apply supOS in real or simulated factory environments
-
-👉 [Learn More](https://supos.ai/hackathon)
-
-## 📅 Timeline
-
-| Phase | Date |
-|-------|------|
-| Starts | August 1, 2025 |
-| Ends | October 31, 2025 |
 
 ## 👥 Team Up
 
@@ -34,9 +27,5 @@ Introduce yourself in `#team-up-hub` on [Discord](https://discord.gg/K92gcRWabU)
 - [Join Discord](https://discord.gg/K92gcRWabU)
 
 
-## 🏆 Prizes
+💰 Hack your way to $11,000 in prizes!
 
-Over **$11,000 USD** in prizes for top projects！
-
-
-Let’s build the next-gen factory together 💪
