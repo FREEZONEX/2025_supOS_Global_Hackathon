@@ -2,7 +2,7 @@
 [![supOS Hackathon Banner](./20250807-170635.png)](https://supos.ai/hackathon)
 
 📅*August 1 to October 31, 2025*  
-[**🔍 Know More**](https://supos.ai/hackathon)
+[**🔍 More Detail**](https://supos.ai/hackathon)
 
 ## 🎯 What’s this about?
 
@@ -14,10 +14,10 @@ This **3-month** hackathon is your playground to:
 2. **supOS Pro** – Optimize, extend, or reimagine the platform
 3. **Real-World Deployment** – Apply supOS in real or simulated factory environments
 
-## 👥 Team Up
+## 👥 Join the Community
 
-Looking for teammates?  
-Introduce yourself in `#team-up-hub` on [Discord](https://discord.gg/K92gcRWabU) and start building!
+Have questions about the hackathon — rules, timeline, team formation, or anything else?  
+Join our [Discord](https://discord.gg/K92gcRWabU) to connect with organizers and participants!
 
 ## 🧠 Resources
 
